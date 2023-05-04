@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "436900197065",
+    "project_id": "rostelekom-a2a2e",
+    "storage_bucket": "rostelekom-a2a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436900197065:android:fd11f80892d92176d71318",
+        "android_client_info": {
+          "package_name": "com.example.rostelekom_main_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436900197065-lsk0i8e7rs6hnd2snfnqvh8oikp76biu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPZqS7tOeKzI0yOFwS-WN0ovBgHLQDwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436900197065-lsk0i8e7rs6hnd2snfnqvh8oikp76biu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436900197065-4likhf4io509c755bkb2prqpnbvj3t21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.profApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436900197065:android:6a70edb900420acad71318",
+        "android_client_info": {
+          "package_name": "com.example.web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436900197065-lsk0i8e7rs6hnd2snfnqvh8oikp76biu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPZqS7tOeKzI0yOFwS-WN0ovBgHLQDwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436900197065-lsk0i8e7rs6hnd2snfnqvh8oikp76biu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436900197065-4likhf4io509c755bkb2prqpnbvj3t21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.profApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
